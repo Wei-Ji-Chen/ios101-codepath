@@ -1,4 +1,4 @@
-# ios101-codepath
+# ios101-codepath-prework
 
 - Improve the UI by using different fonts/colors/background
 - Feel free to play around with other elements, such as image views, textfields, etc.
