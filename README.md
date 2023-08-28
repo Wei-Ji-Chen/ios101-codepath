@@ -18,3 +18,6 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 4. BeReal
    a) post pictures depicting selfie + rear camera shot (two pics in one) 
    b) randomized posting schedule alerting users 
+
+# App I would like to build 
+I would like to build a multi-language community + learning app. I think the best way to learn a new language is to speak to the natives. Unfortunately, current options include either knowing a native language speaker or hiring a tutor of some kind. If there was a personalized app that functioned as a platform for people from different countries to conglomerate and provide support in learning different languages, that would be amazing. There would be an auto-translation feature in which text can be displayed in two different languages, the user's native language and the secondary language they are attempting to learn right now. It provides an immersive experience to using the new language more commonly outside of specialized speaking time, allowing quicker grasp of the language
